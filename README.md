@@ -5,7 +5,7 @@
 |날짜|학습 내용|
 |---|---|
 |240103|[[review] Pod 배치 관련 옵션 및 환경 변수](https://github.com/heewon00/TIL_K8S/blob/main/review/Pod%20%EB%B0%B0%EC%B9%98%20%EA%B4%80%EB%A0%A8%20%EC%98%B5%EC%85%98%20%EB%B0%8F%20%ED%99%98%EA%B2%BD%20%EB%B3%80%EC%88%98.md)|
-|240104|[Cluster Upgrade Process](https://github.com/heewon00/TIL_K8S/blob/main/Cluster%20Maintenance/Cluster%20Upgrade%20Process.md)|
+|240104|[Cluster Upgrade Process](https://github.com/heewon00/TIL_K8S/blob/main/clusterMaintenance/Cluster%20Upgrade%20Process.md)|
 |240105||
 
 ## 📝카테고리
