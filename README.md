@@ -8,7 +8,7 @@
 |240104|[CKA][Cluster Upgrade Process](https://github.com/heewon00/TIL_CloudNative/blob/main/CKA/clusterMaintenance/Cluster%20Upgrade%20Process.md)|
 |240105|[CKA][Backup and Restore Methods](https://github.com/heewon00/TIL_CloudNative/blob/main/CKA/clusterMaintenance/Backup%20and%20Restore%20Methods.md)|
 |240109|[CKA][Backup and Restore Methods - Multiple Cluster](https://github.com/heewon00/TIL_CloudNative/blob/main/CKA/clusterMaintenance/Backup%20and%20Restore%20Methods%20-%20Multiple%20Cluster.md)|
-|240110|[SpringBoot][[1]SpringBoot의 등장](https://github.com/heewon00/TIL_CloudNative/blob/main/SpringBoot/%5B1%5DSpringBoot%EC%9D%98%20%EB%93%B1%EC%9E%A5.md) <br> [SpringBoot][[2-1]프로젝트 설정](https://github.com/heewon00/TIL_CloudNative/blob/main/SpringBoot/%5B2-1%5D%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%84%A4%EC%A0%95.md)|
+|240110|[SpringBoot][[1] SpringBoot의 등장](https://github.com/heewon00/TIL_CloudNative/blob/main/SpringBoot/%5B1%5D%20SpringBoot%EC%9D%98%20%EB%93%B1%EC%9E%A5.md) <br> [SpringBoot][[2-1] 프로젝트 설정](https://github.com/heewon00/TIL_CloudNative/blob/main/SpringBoot/%5B2-1%5D%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%84%A4%EC%A0%95.md)|
 ||[SpringBoot][]()|
 
 ## 📝카테고리
