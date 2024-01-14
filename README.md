@@ -10,7 +10,8 @@
 |240109|[CKA][Backup and Restore Methods - Multiple Cluster](https://github.com/heewon00/TIL_CloudNative/blob/main/CKA/clusterMaintenance/Backup%20and%20Restore%20Methods%20-%20Multiple%20Cluster.md)|
 |240110|[SpringBoot][[1] SpringBoot의 등장](https://github.com/heewon00/TIL_CloudNative/blob/main/SpringBoot/%5B1%5D%20SpringBoot%EC%9D%98%20%EB%93%B1%EC%9E%A5.md) <br> [SpringBoot][[2-1] 프로젝트 설정](https://github.com/heewon00/TIL_CloudNative/blob/main/SpringBoot/%5B2-1%5D%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%84%A4%EC%A0%95.md)|
 |240111|[SpringBoot][[2-2] WAR 빌드&배포와 톰캣 설정](https://github.com/heewon00/TIL_CloudNative/blob/main/SpringBoot/%5B2-2%5D%20WAR%20%EB%B9%8C%EB%93%9C%26%EB%B0%B0%ED%8F%AC%EC%99%80%20%ED%86%B0%EC%BA%A3%20%EC%84%A4%EC%A0%95.md)|
-||[SpringBoot][]()|
+|240114|[Vue.js][Vue 3 시작하기](https://github.com/heewon00/learn-vue-js)|
+||[][]()|
 
 ## 📝카테고리
 ### 🐱 CKA
@@ -20,7 +21,7 @@
 - [CKA 대비 문제 및 풀이](https://junior-developer.tistory.com/97) <br>
 - [강의](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/) <br>
 
-### 🐱 Vue
+### 🐱 Vue.js
 #### 🔗관련 강의 및 자료
 - [강의](https://www.inflearn.com/course/vue-3-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)
 ### 🐱 SpringBoot
