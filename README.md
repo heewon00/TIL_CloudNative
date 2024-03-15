@@ -14,7 +14,7 @@
 |240122|[SpringBoot][[세미나] SpringBoot Annotation](https://heewon00.notion.site/SpringBoot-Annotation-debd198b6a25406cbdbb5eb0a981b35b?pvs=4)|
 |240129|[SpringBoot][[세미나] java8 기능 : 람다식 / Optional / Stream](https://heewon00.notion.site/240129-java8-Optional-Stream-d4ce68ce24ea4a638031a8d54a99e943?pvs=4)|
 |240306|[기타][[세미나] 성능 테스트 툴 : Apache JMeter, Apache Bench](https://heewon00.notion.site/240306-Apache-JMeter-Apache-Bench-5f6a208dcca6425d833880257d63c5ce?pvs=4)|
-|240314|[기타][[세미나] MDC(Mapped Diagnostic Context : 모니터링 데이터 수집 관점)](https://heewon00.notion.site/240314-MDC-Mapped-Diagnostic-Context-1a8278775a984456a47f380d2f5866c7?pvs=4)|
+|240314|[SpringBoot][[세미나] MDC(Mapped Diagnostic Context : 모니터링 데이터 수집 관점)](https://heewon00.notion.site/240314-MDC-Mapped-Diagnostic-Context-1a8278775a984456a47f380d2f5866c7?pvs=4)|
 ||[][]()|
 
 ## 📝카테고리
